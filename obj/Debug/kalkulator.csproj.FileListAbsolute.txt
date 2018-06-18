@@ -1,0 +1,10 @@
+C:\Users\pwr20\Desktop\BMI\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\pwr20\Desktop\BMI\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\pwr20\Desktop\BMI\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\pwr20\Desktop\BMI\kalkulator\kalkulator\obj\Debug\kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\pwr20\Desktop\BMI\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+C:\Users\pwr20\Desktop\BMI\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\pwr20\Desktop\BMI\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.Cache
+C:\Users\pwr20\Desktop\BMI\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\pwr20\Desktop\BMI\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+C:\Users\pwr20\Desktop\BMI\kalkulator\kalkulator\obj\Debug\kalkulator.Form2.resources
